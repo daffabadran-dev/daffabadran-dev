@@ -5,9 +5,8 @@
 
 
 <h1 align="center">
-  Hi,
   <img src="https://media.tenor.com/NZDyvz4xk4gAAAAi/kaguya-scared.gif" width="40" style="vertical-align: middle;"/>
-   welcome!
+   Welcome!
 </h1>
 
 
