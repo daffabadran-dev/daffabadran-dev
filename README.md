@@ -1,6 +1,6 @@
-![Anime GIF Header](https://media1.tenor.com/m/AntWJAmYAIYAAAAC/your-name.gif)
+![Anime GIF Header](https://media1.tenor.com/m/AntWJAmYAIYAAAAC/your-name.gif width="100%")
 
-# daffabadran-dev
+# welcome!
 
 ---
 
