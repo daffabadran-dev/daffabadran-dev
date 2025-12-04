@@ -40,7 +40,6 @@ I'm excited to connect and collaborate on innovative projects!
 
 - 🎓 Currently learning at a Fullstack Developer bootcamp
 - 🌱 Always curious to explore new technologies & best practices
-- 👨‍💻 Love building fast, accessible, and visually pleasing websites/apps
 - 💬 Open for collaboration or discussion—feel free to reach out!
 - 📍 Based in Indonesia
 
