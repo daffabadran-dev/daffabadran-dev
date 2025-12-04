@@ -1,6 +1,6 @@
 
 <p align="center"">
-  <img src="https://media1.tenor.com/m/LLbBywQ4JbMAAAAd/lofi-belle-zzz.gif" style="width:100%; display:block;" />
+  <img src="https://media1.tenor.com/m/LLbBywQ4JbMAAAAd/lofi-belle-zzz.gif" style="width:100%;" />
 </p>
 
 
