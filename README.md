@@ -1,6 +1,6 @@
-![Anime GIF Header](https://your-anime-gif-link-here.gif)
+![Anime GIF Header](https://tenor.com/id/view/your-name-anime-gif-26447543)
 
-# Daffa Badran
+# daffabadran-dev
 
 ---
 
@@ -70,8 +70,8 @@ I'm excited to connect and collaborate on innovative projects!
 - 📚 Love reading books, especially story books
 - 🎬 Watching movies
 
-<sub><i>Big fan of Spy x Family and Frieren: Beyond Journey's End</i></sub>
+<sub><i>fan of Spy x Family and Frieren: Beyond Journey's End :)</i></sub>
 
 ---
 
-> *Thank you for visiting! Feel free to reach out for collaborations, ideas, or just a friendly chat about technology and development.*
+> *Thank you for visiting! Feel free to reach out for collaborations, ideas, or just a friendly chat about technology and development or even anime and games!*
