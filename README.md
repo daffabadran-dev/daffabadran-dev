@@ -1,4 +1,8 @@
-![Anime GIF Header](https://media1.tenor.com/m/AntWJAmYAIYAAAAC/your-name.gif width="100%")
+
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://media1.tenor.com/m/AntWJAmYAIYAAAAC/your-name.gif" style="width:100%; display:block;" />
+</p>
+
 
 # welcome!
 
