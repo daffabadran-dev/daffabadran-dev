@@ -1,5 +1,5 @@
 
-<p align="center" style=" padding:0;">
+<p align="center"">
   <img src="https://media1.tenor.com/m/LLbBywQ4JbMAAAAd/lofi-belle-zzz.gif" style="width:100%; display:block;" />
 </p>
 
