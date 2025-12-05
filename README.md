@@ -78,7 +78,7 @@ I'm excited to connect and collaborate on innovative projects!
 - 📚 Love reading books, especially story books
 - 🎬 Watching movies
 
-<sub><i>fan of Spy x Family and Frieren: Beyond Journey's End :)</i></sub>
+<sub><i>Beyond journey's end</i></sub>
 
 ---
 
