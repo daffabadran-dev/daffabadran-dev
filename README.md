@@ -34,7 +34,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently learning at a Front end Dev!
+- 🎓 Currently learning to be a Front end Dev or maybe Fullstack Dev
 - 😆 friendly 
 - 🌱 love study together
 - 💬 Open for collaboration or discussion—feel free to reach out!
