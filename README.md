@@ -15,10 +15,6 @@
 
 ## 👋 Hello, I'm Daffa Badran
 
-I'm a curious learner currently exploring both front-end and back-end technologies in a Fullstack Developer bootcamp.  
-I love transforming ideas into delightful, user-friendly web experiences—always striving to build products that combine clean code, scalability, and great design.  
-I'm excited to connect and collaborate on innovative projects!
-
 ---
 
 ### 💡 My Tech Stack
@@ -38,7 +34,7 @@ I'm excited to connect and collaborate on innovative projects!
 
 ### 🚀 About Me
 
-- 🎓 Currently learning at a Fullstack Developer bootcamp
+- 🎓 Currently learning at a Front end Dev!
 - 😆 friendly 
 - 🌱 love study together
 - 💬 Open for collaboration or discussion—feel free to reach out!
